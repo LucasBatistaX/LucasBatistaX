@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Lucas Batista
 
 - 🔭 Hoje trabalho com manutenção automotiva numa concessionaria Volvo.
-- 🌱 Atualmente estou aprendendo Html/CSS/JavaScript e estou em sonhando com minha primeira oportunidade.
+- 🌱 Atualmente estou aprendendo Html5/CSS3/JavaScript e estou em sonhando com minha primeira oportunidade.
 
 
 <div align="center">
