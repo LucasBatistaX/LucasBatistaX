@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Lucas Batista
 
 - 🔭 Hoje trabalho como Analista de Suporte Técnico.
-- 🌱 Atualmente estou aprendendo Dart e Flutter e estou em sonhando com minha primeira oportunidade como Desenvolvedor Mobile.
+- 🌱 Atualmente estou aprendendo Dart/Flutter e estou em sonhando com minha primeira oportunidade como Desenvolvedor Mobile.
 
 
 <div align="center">
