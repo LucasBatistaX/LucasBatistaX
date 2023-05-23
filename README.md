@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Lucas Batista
 
-- 🔭 Hoje trabalho com manutenção automotiva numa concessionaria Volvo.
-- 🌱 Atualmente estou aprendendo Html5/CSS3/JavaScript e estou em sonhando com minha primeira oportunidade.
+- 🔭 Hoje trabalho como Analista de Suporte Técnico.
+- 🌱 Atualmente estou aprendendo Dart e Flutter e estou em sonhando com minha primeira oportunidade como Desenvolvedor Mobile.
 
 
 <div align="center">
