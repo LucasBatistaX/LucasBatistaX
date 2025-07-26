@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Lucas Batista
 
 - 🔭 Atualmente trabalho como Analista de Suporte Técnico.
-- 🌱 Atualmente estou aprendendo JavaScript / React Native e estou em sonhando com minha primeira oportunidade como Desenvolvedor.
+- 🌱 Atualmente estou aprendendo TypeScript e React Native mantendo o foco em desenvolvimento mobile Full-Stack.
 
 
 <div align="center">
