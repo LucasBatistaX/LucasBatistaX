@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Lucas Batista
 
-- 🔭 Hoje trabalho como Analista de Suporte Técnico.
+- 🔭 Atualmente trabalho como Analista de Suporte Técnico.
 - 🌱 Atualmente estou aprendendo JavaScript / React Native e estou em sonhando com minha primeira oportunidade como Desenvolvedor.
 
 
@@ -10,16 +10,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBatistaX&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+## &nbsp;My Stack
 
-##
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,npm,react,tailwind,bootstrap,git,github,&theme=dark" />
+
+#
 
 <div> 
   <a href="https://www.instagram.com/Lucas.batistax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
