@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Lucas Batista
 
 - 🔭 Atualmente trabalho como Analista de Suporte Técnico.
-- 🌱 Atualmente estou aprendendo TypeScript e React Native mantendo o foco em desenvolvimento mobile Full-Stack.
+- 🌱 Atualmente estou aprendendo Flutter mantendo o foco em desenvolvimento mobile.
 
 
 <div align="center">
