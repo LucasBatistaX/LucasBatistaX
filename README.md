@@ -1,4 +1,4 @@
-### Ola! Eu sou o Lucas Batista
+### Olá! Eu sou o Lucas Batista
 
 - 🔭 Atualmente trabalho como Analista de Suporte Técnico.
 - 🌱 Atualmente estou aprendendo Flutter mantendo o foco em desenvolvimento mobile.
