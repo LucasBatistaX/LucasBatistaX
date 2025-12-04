@@ -12,7 +12,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,npm,react,tailwind,bootstrap,git,github,dart,flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,dart,flutter&theme=dark" />
 
 #
 
