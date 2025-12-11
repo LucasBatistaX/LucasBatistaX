@@ -34,12 +34,6 @@ Gosto de aprender, criar e evoluir — e o Flutter tem sido a ferramenta perfeit
 
 📬 Vamos conversar?
 
-## &nbsp;My Stack
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,dart,flutter&theme=dark" />
-
-#
-
 <div> 
   <a href="https://www.instagram.com/Lucas.batistax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:Lucas915706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
