@@ -1,14 +1,38 @@
-### Olá! Eu sou o Lucas Batista
+👋 Olá! Eu sou o Lucas Batista
+🚀 Desenvolvedor Mobile em formação | Apaixonado por Flutter
 
-- 🔭 Atualmente trabalho como Analista de Suporte Técnico.
-- 🌱 Investindo meu tempo aprendendo Flutter mantendo o foco em desenvolvimento mobile.
+Sou um entusiasta da tecnologia que encontrou no Flutter não só um framework, mas um caminho para transformar ideias em aplicativos funcionais e bonitos. Desde que comecei a estudar desenvolvimento mobile, descobri uma vontade enorme de evoluir como dev e criar soluções que realmente impactem o dia a dia das pessoas.
 
+Atualmente trabalho como Analista de Suporte Técnico, mas meu foco e dedicação estão totalmente voltados para me tornar um Flutter Developer profissional.
 
+🌱 O que estou estudando e construindo
+
+Aprofundando meus conhecimentos em Flutter e Dart
+
+Refazendo conceitos de lógica de programação
+
+Criando apps para praticar UI, navegação, animações e boas práticas
+
+Estudando Firebase, consumo de APIs e gerenciamento de estado
+
+🎯 Meu objetivo
+
+Crescer como desenvolvedor mobile, entrar no mercado como Dev Flutter e continuar construindo aplicações eficientes, performáticas e com interfaces agradáveis.
+Quero olhar para trás e perceber que cada linha de código me levou mais longe.
+
+🛠️ Tecnologias & Ferramentas
+<div style="display: flex; gap: 10px;"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> </div>
+📊 Minhas estatísticas no GitHub
 <div align="center">
-  <a href="https://github.com/LucasBatistaX">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasBatistaX&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBatistaX&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
+🧠 Um pouco sobre mim
+
+Sempre gostei de entender como as coisas funcionam. Isso me levou ao mundo da programação, onde encontrei espaço para criatividade, lógica, desafios constantes e aquela satisfação absurda de ver algo funcionando na tela do celular.
+
+Gosto de aprender, criar e evoluir — e o Flutter tem sido a ferramenta perfeita para isso.
+
+📬 Vamos conversar?
 
 ## &nbsp;My Stack
 
