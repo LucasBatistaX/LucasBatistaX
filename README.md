@@ -15,17 +15,26 @@ Criando apps para praticar UI, navegação, animações e boas práticas
 
 Estudando Firebase, consumo de APIs e gerenciamento de estado
 
+
 🎯 Meu objetivo
 
 Crescer como desenvolvedor mobile, entrar no mercado como Dev Flutter e continuar construindo aplicações eficientes, performáticas e com interfaces agradáveis.
 Quero olhar para trás e perceber que cada linha de código me levou mais longe.
 
+
 🛠️ Tecnologias & Ferramentas
 <div style="display: flex; gap: 10px;"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> </div>
+
+
 📊 Minhas estatísticas no GitHub
 <div align="center">
 
+https://github-readme-stats.vercel.app/api?username=LucasBatistaX&show_icons=true&theme=tokyonight&hide_border=true
+
 </div>
+
+
+
 🧠 Um pouco sobre mim
 
 Sempre gostei de entender como as coisas funcionam. Isso me levou ao mundo da programação, onde encontrei espaço para criatividade, lógica, desafios constantes e aquela satisfação absurda de ver algo funcionando na tela do celular.
