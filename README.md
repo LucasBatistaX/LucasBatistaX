@@ -22,8 +22,14 @@ Crescer como desenvolvedor mobile, entrar no mercado como Dev Flutter e continua
 Quero olhar para trás e perceber que cada linha de código me levou mais longe.
 
 
+
+
+
 🛠️ Tecnologias & Ferramentas
 <div style="display: flex; gap: 10px;"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> </div>
+
+
+
 
 
 🧠 Um pouco sobre mim
