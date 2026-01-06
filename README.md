@@ -1,5 +1,5 @@
 👋 Olá! Eu sou o Lucas Batista
-🚀 Desenvolvedor Mobile em formação | Apaixonado por Flutter
+🚀 Desenvolvedor Mobile | Apaixonado por Flutter
 
 Sou um entusiasta da tecnologia que encontrou no Flutter não só um framework, mas um caminho para transformar ideias em aplicativos funcionais e bonitos. Desde que comecei a estudar desenvolvimento mobile, descobri uma vontade enorme de evoluir como dev e criar soluções que realmente impactem o dia a dia das pessoas.
 
